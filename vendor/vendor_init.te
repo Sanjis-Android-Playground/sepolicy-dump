@@ -1,0 +1,5 @@
+#============= vendor_init ==============
+allow vendor_init fingerprint_data_file:dir getattr;
+allow vendor_init vendor_data_file:dir read;
+set_prop(vendor_init, audio_prop)
+set_prop(vendor_init, default_prop)

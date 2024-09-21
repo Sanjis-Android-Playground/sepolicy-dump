@@ -1,0 +1,2 @@
+#============= devicesettings_app ==============
+get_prop(devicesettings_app, default_prop)

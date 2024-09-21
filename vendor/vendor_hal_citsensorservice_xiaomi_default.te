@@ -1,0 +1,2 @@
+#============= vendor_hal_citsensorservice_xiaomi_default ==============
+allow vendor_hal_citsensorservice_xiaomi_default mnt_vendor_file:dir search;
